@@ -1,0 +1,81 @@
+Added Component: Designator=R1(RESC1508X03N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220O"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1508X03N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KO"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1508X03N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1kO"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1508X03N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1kO"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1508X03N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220O"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1508X03N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KO"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1508X03N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KO"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1508X03N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1KO"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1508X03N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1KO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Pin To Net: NetName=RST Pin=R2-1
+Added Pin To Net: NetName=+5 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetJ1_A5 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=CC2 Pin=R4-2
+Added Pin To Net: NetName=NetD2_K Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=D0/RX Pin=R6-1
+Added Pin To Net: NetName=NetD3_K Pin=R6-2
+Added Pin To Net: NetName=D1/TX Pin=R7-1
+Added Pin To Net: NetName=NetD4_K Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=D0/RX Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=D1/TX Pin=R9-2
+Added Member To Class: ClassName=MC_Project Member=Component R1 Resistance-0603
+Added Member To Class: ClassName=MC_Project Member=Component R2 Resistance-0603
+Added Member To Class: ClassName=MC_Project Member=Component R3 Resistance-0603
+Added Member To Class: ClassName=MC_Project Member=Component R4 Resistance-0603
+Added Member To Class: ClassName=MC_Project Member=Component R5 Resistance-0603
+Added Member To Class: ClassName=MC_Project Member=Component R6 Resistance-0603
+Added Member To Class: ClassName=MC_Project Member=Component R7 Resistance-0603
+Added Member To Class: ClassName=MC_Project Member=Component R8 Resistance-0603
+Added Member To Class: ClassName=MC_Project Member=Component R9 Resistance-0603

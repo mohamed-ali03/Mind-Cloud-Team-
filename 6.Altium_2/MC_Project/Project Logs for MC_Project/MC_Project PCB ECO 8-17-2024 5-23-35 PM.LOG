@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+5 Pin=D6-1
+Removed Pin From Net: NetName=+5 Pin=LS1-P
+Removed Pin From Net: NetName=GND Pin=T1-1
+Removed Pin From Net: NetName=D13 Pin=T1-3
+Removed Member From Class: ClassName=MC_Project Member=D6
+Removed Member From Class: ClassName=MC_Project Member=T1
+Added Component: Designator=R?(RESC1508X03N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LS1-N
+Added Pin To Net: NetName=D13 Pin=R?-2
+Added Pin To Net: NetName=NetLS1_P Pin=LS1-P
+Added Pin To Net: NetName=NetLS1_P Pin=R?-1
+Added Net: Name=NetLS1_P
+Added Member To Class: ClassName=MC_Project Member=Component R? Resistance-0603

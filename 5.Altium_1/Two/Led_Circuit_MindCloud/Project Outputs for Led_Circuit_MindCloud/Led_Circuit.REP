@@ -1,0 +1,128 @@
+*************************************************************
+FileName = Led_Circuit.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Led_Circuit_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Led_Circuit_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Led_Circuit_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Led_Circuit_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Led_Circuit_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Led_Circuit_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Led_Circuit_Profile.gbr
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Led_Circuit_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Led_Circuit_PTH_Drill.gbr
+
+
+Used DCodes :
+    D23
+*************************************************************
+

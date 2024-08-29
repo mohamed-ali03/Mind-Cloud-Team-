@@ -1,0 +1,20 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Led_Circuit_MindCloud.PrjPcb]
+   Generated File[Led_Circuit_Copper_Signal_Top.gbr]
+   Generated File[Led_Circuit_Copper_Signal_Bot.gbr]
+   Generated File[Led_Circuit_Legend_Top.gbr]
+   Generated File[Led_Circuit_Soldermask_Top.gbr]
+   Generated File[Led_Circuit_Soldermask_Bot.gbr]
+   Generated File[Led_Circuit_Paste_Top.gbr]
+   Generated File[Led_Circuit_Profile.gbr]
+   Generated File[Led_Circuit_NPTH_Drill.gbr]
+   Generated File[Led_Circuit_PTH_Drill.gbr]
+   Generated File[Led_Circuit.EXTREP]
+   Generated File[Led_Circuit.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 8:45:18 PM On 8/8/2024

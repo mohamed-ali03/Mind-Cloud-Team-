@@ -1,0 +1,20 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [5_3.3_Regulator.PrjPcb]
+   Generated File[Regulator_Copper_Signal_Top.gbr]
+   Generated File[Regulator_Copper_Signal_Bot.gbr]
+   Generated File[Regulator_Legend_Top.gbr]
+   Generated File[Regulator_Soldermask_Top.gbr]
+   Generated File[Regulator_Soldermask_Bot.gbr]
+   Generated File[Regulator_Paste_Top.gbr]
+   Generated File[Regulator_Profile.gbr]
+   Generated File[Regulator_NPTH_Drill.gbr]
+   Generated File[Regulator_PTH_Drill.gbr]
+   Generated File[Regulator.EXTREP]
+   Generated File[Regulator.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 5:07:01 PM On 8/7/2024

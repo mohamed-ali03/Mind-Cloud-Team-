@@ -1,0 +1,32 @@
+Added Component: Designator=U1(PCBComponent_1)
+Added Pin To Net: NetName=+3V3 Pin=U1-+3V3
+Added Pin To Net: NetName=+5 Pin=U1-+5V
+Added Pin To Net: NetName=A6 Pin=U1-A6
+Added Pin To Net: NetName=A7 Pin=U1-A7
+Added Pin To Net: NetName=AREF Pin=U1-AREF
+Added Pin To Net: NetName=D0/RX Pin=U1-D0/RX
+Added Pin To Net: NetName=D1/TX Pin=U1-D1/TX
+Added Pin To Net: NetName=D2 Pin=U1-D2
+Added Pin To Net: NetName=D4 Pin=U1-D4
+Added Pin To Net: NetName=D7 Pin=U1-D7
+Added Pin To Net: NetName=D8 Pin=U1-D8
+Added Pin To Net: NetName=D12/MISO Pin=U1-D12
+Added Pin To Net: NetName=D13 Pin=U1-D13
+Added Pin To Net: NetName=A0 Pin=U1-D14
+Added Pin To Net: NetName=A1 Pin=U1-D15
+Added Pin To Net: NetName=A2 Pin=U1-D16
+Added Pin To Net: NetName=A3 Pin=U1-D17
+Added Pin To Net: NetName=A4 Pin=U1-D18
+Added Pin To Net: NetName=A5 Pin=U1-D19
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GROUND
+Added Pin To Net: NetName=RST Pin=U1-RESET
+Added Pin To Net: NetName=RST Pin=U1-RST
+Added Pin To Net: NetName=VCC Pin=U1-VIN
+Added Pin To Net: NetName=D3 Pin=U1-~D3
+Added Pin To Net: NetName=D5 Pin=U1-~D5
+Added Pin To Net: NetName=D6 Pin=U1-~D6
+Added Pin To Net: NetName=D9 Pin=U1-~D9
+Added Pin To Net: NetName=D10 Pin=U1-~D10
+Added Pin To Net: NetName=D11/MOSI Pin=U1-~D11
+Added Member To Class: ClassName=MC_Project Member=Component U1 PinHeader
